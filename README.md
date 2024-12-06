@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://your-solution-url.com)
+- Solution URL: [My Solution](https://github.com/tugcekizildg/Bento_Grid_Design_Solution_FEM.io)
 - Live Site URL: [Live Preview](https://jolly-pixie-f96c14.netlify.app)
 
 ### Built with
